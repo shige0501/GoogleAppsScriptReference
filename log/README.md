@@ -17,4 +17,4 @@ values  フォーマットに渡す値
 Logger
 
 ## サンプルの実行結果
-![Alt Text](https://github.com/shige0501/blob/master/log/result.png)
+![Alt Text](https://raw.githubusercontent.com/shige0501/GoogleAppsScriptReference/master/log/result.png)
